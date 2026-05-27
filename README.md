@@ -20,8 +20,6 @@ Back to basics, a verilog code for full adder
 - Icarus Verilog
 - EPWave
 
-## Author
-Jesna Mary Mathews
 ## Waveform
 
 ![Waveform](FA_waveform.png)
